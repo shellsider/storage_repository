@@ -1,7 +1,7 @@
 export default function TestComponent() {
   return (
     <div>
-      <h1>Test Component</h1>
+      <h1>Test Component UPDATES SHOULD REFLECT</h1>
       <p>
         This is a test component for the GitHub agent project. UPDATING THIS ONE{" "}
       </p>
